@@ -29,6 +29,12 @@ You should also try to download Python on your computer:
 
 ## Demo
 **Simple demo of an example**
+<img width="195" height="35" alt="image" src="https://github.com/user-attachments/assets/da8643d0-76b0-4c31-9ea6-d984e4f318ba" />
+<img width="483" height="224" alt="image" src="https://github.com/user-attachments/assets/426c0791-c018-46aa-a02c-e96893fddad4" />
+<img width="468" height="878" alt="image" src="https://github.com/user-attachments/assets/9b89031e-c372-42b1-9f06-3acb5e2cb925" />
+<img width="917" height="781" alt="image" src="https://github.com/user-attachments/assets/a1a9a906-9349-4a4f-baad-37268453e7a3" />
+<img width="576" height="425" alt="image" src="https://github.com/user-attachments/assets/935d0ecb-a2f2-4130-8ba6-8f03c9884f6c" />
+<img width="393" height="990" alt="image" src="https://github.com/user-attachments/assets/8f6a2606-dd05-4fb6-88c8-87923cd5b783" />
 
 
 
