@@ -8,6 +8,7 @@ The keyword can be the user's name, nickname, words with meaning to the user.
 #####   3.1 This program uses 4 different libraries: random, pymongo, bson, and os.
 #####   3.2 Random and os are built in when you install python, but the rest must be installed seperately.
 #####   3.3 Type: "pip install pymongo" and "pip install bson" to be able to use MongoClient from pymongo and bson.objectid from ObjectId
+#####   3.4 Follow this video to get MongoDB Server on your VSCode: https://www.youtube.com/watch?v=nHLhaaL0Uwg
 #### 4. Then run the python file
 #####   4.1 To run the file on terminal do: "python file_name.py"
 #####   4.2 To quiz after running the file type: "ctrl + c"
@@ -26,3 +27,10 @@ You should also try to download Python on your computer:
 **MAC:** https://www.youtube.com/watch?v=nhv82tvFfkM  
 **Linux:** https://www.youtube.com/watch?v=IAco2SSuGms
 
+## Demo
+**Simple demo of an example**
+
+
+
+
+Hope you enjoy.
