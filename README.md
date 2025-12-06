@@ -9,12 +9,16 @@ The keyword can be the user's name, nickname, words with meaning to the user.
 #####   3.2 To quiz after running the file type: "ctrl + c"
 ## Step2:
 There are many IDE's to download, if you don't know where to start, use Visual Studio Code. It's simple to use, versatile, and great for beginners.
-Download:
-WINDOWS: https://www.youtube.com/watch?v=cu_ykIfBprI
-MAC: https://www.youtube.com/watch?v=w0xBQHKjoGo
-Linux (Ubuntu): https://www.youtube.com/watch?v=ChwsFldra-o
-You should also try to download Python on your computer
-WINDOWS: https://www.youtube.com/watch?v=e70ykVBazAg
-MAC: https://www.youtube.com/watch?v=nhv82tvFfkM
-Linux: https://www.youtube.com/watch?v=IAco2SSuGms
+
+**Download:**
+
+**WINDOWS:** https://www.youtube.com/watch?v=cu_ykIfBprI  
+**MAC:** https://www.youtube.com/watch?v=w0xBQHKjoGo  
+**Linux (Ubuntu):** https://www.youtube.com/watch?v=ChwsFldra-o  
+
+You should also try to download Python on your computer:
+
+**WINDOWS:** https://www.youtube.com/watch?v=e70ykVBazAg  
+**MAC:** https://www.youtube.com/watch?v=nhv82tvFfkM  
+**Linux:** https://www.youtube.com/watch?v=IAco2SSuGms
 
